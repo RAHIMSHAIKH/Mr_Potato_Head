@@ -27,6 +27,12 @@ h1 {
   top:170px;
   left: 30px;
 }
+#nose_image{
+  top:150px;
+  left:125px;
+  width: 110px;
+  height: 110px;
+}
 
 
 /* Insert CSS for ears below this line*/
